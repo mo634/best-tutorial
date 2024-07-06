@@ -1,3 +1,1 @@
-1. creating service functionallity example 
-    and calling the service inside task controller to be ready to deal with incomming req
-    
+example for creating simple task 

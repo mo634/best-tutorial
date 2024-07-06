@@ -1,5 +1,3 @@
-1. creating service
-    nest g service tasks --no-spec 
+1. creating service functionallity example 
+    and calling the service inside task controller to be ready to deal with incomming req
     
-        -this command will create tasks service file 
-        -then add it to tasks.module in provider param

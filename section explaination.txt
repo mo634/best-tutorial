@@ -1,5 +1,5 @@
-1. creating controller 
-    nest g controller tasks --no-spec 
+1. creating service
+    nest g service tasks --no-spec 
     
-        -this command will create tasks controller file 
-        -then add it to tasks.module in controller param
+        -this command will create tasks service file 
+        -then add it to tasks.module in provider param

@@ -30,4 +30,9 @@ export class TasksService {
 
 
     }
+
+    //define getting task by id 
+    getTaskById(id:string):Task{
+        return this.tasks.find(task => task.id === id)
+    }
 }
